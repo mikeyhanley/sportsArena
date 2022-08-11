@@ -1,0 +1,13 @@
+.facillities{
+    margin-left: 12em;
+    display: inline-grid;
+    grid-template-columns: auto auto auto auto auto auto auto  ;
+}
+#facillitieListing{
+    margin: 2em;
+    padding: 1em;
+    background-color: #f7f0f2;
+}
+#facillitieListing a{
+    color: red;
+}

@@ -1,0 +1,15 @@
+        {
+            "username": null,
+            "password": null,
+            "firstName": null,
+            "lastName": null,
+            "gender": null,
+            "age": null,
+            "weight": null,
+            "height": null,
+            "address": null,
+            "email": null,
+            "phone": null,
+            "status": null,
+            "membership": null
+        }

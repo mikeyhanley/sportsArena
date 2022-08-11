@@ -1,0 +1,52 @@
+{
+    "clubs": [
+        {
+            "name": "Badminton",
+            "operatingDate": "Jan-May",
+            "image": "https://i.ibb.co/FHCMqxR/Badminton.jpg",
+            "maxSize": "15",
+            "facility": "Indoor Court",
+            "trainer": "Jane Doe",
+            "trainingDuration": "2 hours",
+            "calories": "960",
+            "trainingDay": "1",
+            "trainingTime": "1700"
+        },
+        {
+            "name": "Basketball",
+            "operatingDate": "Jan-May",
+            "image": "https://i.ibb.co/mCvmTqW/17796167-1420877991316332-742044047586646363-n.jpg",
+            "maxSize": "12",
+            "facility": "Indoor Court",
+            "trainer": "John Doe",
+            "trainingDuration": "1 hours",
+            "calories": "600",
+            "trainingDay": "1",
+            "trainingTime": "1600"
+        },
+        {
+            "name": "Hockey",
+            "operatingDate": "Feb-May",
+            "image": "https://i.ibb.co/Yh9TnkN/73036939-2467253253512006-7589751663561277440-n.jpg",
+            "maxSize": "15",
+            "facility": "Indoor Court",
+            "trainer": "Paul Smith",
+            "trainingDuration": "2 hours",
+            "calories": "900",
+            "trainingDay": "2",
+            "trainingTime": "1800"
+        },
+        {
+            "name": "GAA",
+            "operatingDate": "Mar-May",
+            "image": "https://i.ibb.co/7kxMmwQ/Fresher-Hurling-Div-1-All-Ireland-Championship-winners-2016.jpg",
+            "maxSize": "12",
+            "facility": "Outdoor Pitch",
+            "trainer": "Rob Walsh",
+            "trainingDuration": "1 hours",
+            "calories": "700",
+            "trainingDay": "2",
+            "trainingTime": "1900"
+        }
+    ]
+}

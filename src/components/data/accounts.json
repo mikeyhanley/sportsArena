@@ -1,0 +1,55 @@
+{
+    "accounts": [
+        {
+            "username": "jim99",
+            "password": "123",
+            "firstName": "Jim",
+            "lastName": "Jones",
+            "gender": "male",
+            "age": "21",
+            "weight": "70",
+            "height": "1.8",
+            "address": "cork",
+            "email": "jima@mail.com",
+            "phone": "0871234567",
+            "status": "student",
+            "membership": "openEnded"
+        },
+        {
+            "username": "johnCIT",
+            "password": "123",
+            "firstName": "John",
+            "lastName": "Doe",
+            "email": "john@cit.ie",
+            "status": "staff",
+            "club": "Basketball"
+        },
+        {
+            "username": "janeCIT",
+            "password": "123",
+            "firstName": "Jane",
+            "lastName": "Doe",
+            "email": "jane@cit.ie",
+            "status": "staff",
+            "club": "Badminton"
+        },
+        {
+            "username": "paulCIT",
+            "password": "123",
+            "firstName": "Paul",
+            "lastName": "Smith",
+            "email": "paul@cit.ie",
+            "status": "staff",
+            "club": "Hockey"
+        },
+        {
+            "username": "robCIT",
+            "password": "123",
+            "firstName": "Rob",
+            "lastName": "Walsh",
+            "email": "john@cit.ie",
+            "status": "staff",
+            "club": "GAA"
+        }
+    ]
+}

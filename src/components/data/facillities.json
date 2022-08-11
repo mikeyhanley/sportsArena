@@ -1,0 +1,14 @@
+{
+    "facillities": [
+        {
+            "name": "Indoor-Court",
+            "id": "0",
+            "location": "Building 1 a2"
+        },
+        {
+            "name": "Outdoor-Pitch",
+            "id": "1",
+            "location": "Pitch 2"
+        }
+    ]
+}
